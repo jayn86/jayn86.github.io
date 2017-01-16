@@ -1,0 +1,15 @@
+body {
+  margin-top: 5px;
+}
+h1 {
+  font-weight: bold;
+}
+h2 {
+  color: orange;
+}
+#titlebanner {
+  max-width:100% height:auto;
+}
+.nav {
+  background-color: aliceblue;
+}
